@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DuffWarren
-- 👀 I’m interested in Python, SQL, R and Tableau
+- 👀 I’m interested in Python, SQL, R, Snowflake, Matillion, Sigma and Tableau
 - 🌱 I’m currently learning above
 - 💞️ I’m looking to collaborate on learning and challenge projects related to data analysis
 - 📫 Reach me at duff.warren@gmail.com
